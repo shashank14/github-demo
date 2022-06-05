@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 
 
 hiis is a anew file
+=======
+thiis is a new file
+done by meet 1045
+>>>>>>> 35cf33e392d40240efcc687cb2de7028d521f9c9
