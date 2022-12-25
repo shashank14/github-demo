@@ -1,7 +1,6 @@
 def new_name():
-  print("shashank")
-  print("shashank")
-
+  print("shashank rgg")
+  print("shashank ragireddy")
 
 def new_name3():
   print("sdasda")
