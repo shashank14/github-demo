@@ -1,7 +1,6 @@
-print("hello world.....")
-print("hello world.....")
-print("---")
-print("---")
-print("---")
-print("hello world.....")
-print("hello world.....")
+def new_name():
+  print("sdasda")
+  print("sdasda")
+  print("sdasda")
+  print("sdasda")
+  print("sdasda")
