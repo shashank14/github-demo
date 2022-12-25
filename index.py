@@ -6,9 +6,6 @@ def new_name():
 def new_name3():
   print("sdasda")
   print("sdasda")
-  print("sdasda")
-  print("sdasda")
-  print("sdasda")
 
 def new_name4():
   print("sdasda")
