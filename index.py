@@ -13,3 +13,7 @@ def new_name4():
 def new_namer():
   print("sha")
 
+def new_namer_5():
+  print("sha")
+
+
